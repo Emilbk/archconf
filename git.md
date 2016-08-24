@@ -44,15 +44,19 @@ tilfoej .gitignore fil
 
 ###sammenlign
 mellem to commits
+
 `git diff HEAD HEAD~3`
 
 mellem staging og working tree
+
 `git diff`
 
 overblik
+
 `git status`
 
 historie (-N er antal seneste commits)
+
 `git log -p (-N)`
 
 
