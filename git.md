@@ -61,3 +61,6 @@ historie (-N er antal seneste commits)
 
 
 nb - `HEAD` er den nyeste commit. `Head` plus `~` referer til tidligere, med numerisk vaerdi.
+
+
+flksjlfjdsfkfjds f
